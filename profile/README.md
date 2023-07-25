@@ -1,6 +1,6 @@
-![WebAssembly from the Ground Up — a hands-on book](https://wasmgroundup.com/assets/images/book-cover-1ccfb67c8b52daf18282d3c03af16dbe.png)
+![WebAssembly from the Ground Up — a hands-on book](https://wasmgroundup.com/img/og-image-large.png?1)
 
-## Learn how WebAssembly works and why it's a big deal.
+## WebAssembly from the Ground Up
 
 This book takes a hands-on, bottoms-up approach: you'll go from hand crafting bytecodes to writing a real compiler for a simple programming language.
 
